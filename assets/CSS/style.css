@@ -44,6 +44,7 @@ h3::before{
 
 
 article {
+    min-height: 150px;
     margin: 8px auto;
 }
 
