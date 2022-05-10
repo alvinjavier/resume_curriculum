@@ -55,6 +55,7 @@ article {
     min-height: 842px;
     margin: 0 auto;
     background-color: #f1faee;
+    outline: rgb(98, 96, 96) double 5px;
 }
 
 
